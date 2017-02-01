@@ -1,0 +1,2 @@
+# hms
+HMS is a completely integrated web enabled Hospital Management System suited for large, mid-size hospitals and clinics. HMS completely automates and integrates the Hospital's entire process catering to, Clinical, Administrative, Support Finance, Supply Chain and Billing functions in the Hospital. Hospital Management System provides the benefits of streamlined operations, enhanced administration control, superior patient care, strict cost control and improved profitability.
